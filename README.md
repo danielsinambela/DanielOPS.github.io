@@ -1,5 +1,5 @@
 # Data Scientist/Mathematician
-![Photo](\assets\PROFILE.png)
+
 
 ### Education
 - Mathematics, PhD   | University of Missouri
