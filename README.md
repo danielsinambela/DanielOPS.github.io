@@ -7,7 +7,7 @@
 - Mathematics, BS    | University of Missouri
 
 ### Work Experience
--Postdoctoral Associate at New York University Abu Dhabi
+- Postdoctoral Associate at New York University Abu Dhabi
 
 
 ### Talks
