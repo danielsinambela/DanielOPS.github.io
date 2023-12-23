@@ -1,5 +1,5 @@
 # Data Scientist/Mathematician
-![Photo](/assets/PROFILE.png)
+![Photo](jpeg-home.jpeg)
 
 ### Education
 Mathematics, PhD
