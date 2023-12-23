@@ -7,7 +7,9 @@
 - Mathematics, BS    | University of Missouri
 (Statistics minor)   
 ### Work Experience
-Postdoctoral Associate at New York University Abu Dhab
+Postdoctoral Associate at New York University Abu Dhabi
 
+
+### Talks
 ### Projects 
 ### Publications
