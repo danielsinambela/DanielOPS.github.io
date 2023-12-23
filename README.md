@@ -1,5 +1,5 @@
 # Data Scientist/Mathematician
-![Photo](/assets/Daniel-Sinambela pic.png)
+![Photo](/assets/PROFILE.png)
 
 ### Education
 Mathematics, PhD
