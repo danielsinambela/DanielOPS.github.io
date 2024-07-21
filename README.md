@@ -2,7 +2,7 @@
 
 
 ### Education
-- Applied Mathematics, PhD | University of Missouri
+- Applied Mathematics,          PhD | University of Missouri
 - Mathematics (Magna Cumlaude), MA    | University of Missouri
 - Mathematics (Magna Cumlaude), BS    | University of Missouri
 
