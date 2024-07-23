@@ -10,7 +10,7 @@
 - Postdoctoral Associate in Mathematics at New York University Abu Dhabi (2022-now)
 - Instructor of Mathematics at University of Missouri, Columbia (2017-2022)
   
-### Projects
+### Completed Data Science and Machine Learning Projects
 - INN HOTELS: Find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
 - RECELL: Analyze the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
 - E-NEWS: Using statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
