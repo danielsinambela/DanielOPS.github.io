@@ -7,7 +7,8 @@
 - Mathematics with minor in Statistics (Magna Cumlaude), BS    | University of Missouri
 
 ### Work Experience
-- Postdoctoral Associate in Mathematics at New York University Abu Dhabi
+- Postdoctoral Associate in Mathematics at New York University Abu Dhabi (2022-now)
+- Instructor of Mathematics at University of Missouri, Columbia (2017-2022)
   
 ### Projects
 - INN HOTELS: Find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
