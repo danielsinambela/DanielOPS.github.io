@@ -7,8 +7,20 @@
 - Mathematics with minor in Statistics (Magna Cumlaude), BS    | University of Missouri
 
 ### Work Experience
-- Postdoctoral Associate in Mathematics at New York University Abu Dhabi (2022-now)
+- Postdoctoral Associate in Mathematics at New York University Abu Dhabi,Full Research Appointment (2022-now)
 - Instructor of Mathematics at University of Missouri, Columbia (2017-2022)
+- 
+### Teaching Experience
+- Instructor for Math 4100/7100 Ordinary Differential Equations (Online), University of Missouri, Columbia (Summer & Fall-2021-Spring-2022)
+- Instructor for Math 1700 Calculus II, University of Missouri, Columbia (Spring 2021).
+- Instructor for Math 1700 Calculus II, University of Missouri, Columbia (Fall 2020).
+- Instructor for Math 4100/7100 Ordinary Differential Equations, University of Missouri, Columbia (Summer 2020).
+- Instructor for Math 1400 Calculus for Business and Social Science, University of Missouri, Columbia (2019-2020).
+- Instructor for Math 1100 Finite Mathematics, University of Missouri, Columbia (Spring 2019).
+- Instructor for Math 1300 College Algebra, University of Missouri, Columbia (Fall 2018).
+- Teaching assistant for Math 4140 Linear Algebra (Matrix Theory), University of Missouri, Columbia (Spring 2018).
+- Teaching assistant for Math 1160 Precalculus, University of Missouri, Columbia (Spring 2018).
+- Teaching assistant for Math 1500 Calculus I, University of Missouri, Columbia (Fall 2018).
   
 ### Completed Data Science and Machine Learning Projects
 - INN HOTELS: Find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
