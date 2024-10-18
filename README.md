@@ -9,7 +9,7 @@
 ### Work Experience
 - Postdoctoral Associate in Mathematics at New York University Abu Dhabi,Full Research Appointment (2022-now)
 - Instructor of Mathematics at University of Missouri, Columbia (2017-2022)
-- 
+
 ### Teaching Experience
 - Instructor for Math 4100/7100 Ordinary Differential Equations (Online), University of Missouri, Columbia (Summer & Fall-2021-Spring-2022)
 - Instructor for Math 1700 Calculus II, University of Missouri, Columbia (Spring 2021).
