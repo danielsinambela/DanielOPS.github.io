@@ -1,4 +1,4 @@
-# Data Scientist/Mathematician
+# Postdoctoral Research Associate
 
 
 ### Education
@@ -10,8 +10,22 @@
 - Postdoctoral Associate in Mathematics at New York University Abu Dhabi,Full Research Appointment (2022-now)
 - Instructor of Mathematics at University of Missouri, Columbia (2017-2022)
 
+### Papers/publications
+- Internal capillary-gravity solitary waves in two-layer rotational fluids with finite depth, (with
+T Hsiao, K Chen) (in preparation).
+- Asymptotic Stability of the Three-Dimensional Couette Flow for the Stokes-transport equation,(with
+W Zhao, R Z Zhu),arxiv:2405.12173.
+- Asymptotic Stability of the Two-Dimensional Couette Flow for the Stokes-transport equation,(with
+W Zhao, R Z Zhu),arxiv:2405.12166.
+- The transition to instability for stable shear flows in inviscid fluids, (with W Zhao, Journal of
+Functional Analysis, to appear, arXiv:2303.15925.
+- Existence and stability of interfacial capillary-gravity solitary waves with constant vorticity,
+Indiana University Math J, to appear, arXiv:2208.08103.
+- Large-amplitude solitary waves in two-layer density stratified water, SIAM J. Math. Anal.53-
+4(2021),pp.4812-4864 Doi:10.1137/20M1383537, arXiv:2012.00142.
+
 ### Teaching Experience
-- Instructor for Math 4100/7100 Ordinary Differential Equations (Online), University of Missouri, Columbia (Summer & Fall-2021-Spring-2022)
+- Instructor for Math 4100/7100 Ordinary Differential Equations (Online), University of Missouri, Columbia (Summer & Fall-2021-Spring-2022).
 - Instructor for Math 1700 Calculus II, University of Missouri, Columbia (Spring 2021).
 - Instructor for Math 1700 Calculus II, University of Missouri, Columbia (Fall 2020).
 - Instructor for Math 4100/7100 Ordinary Differential Equations, University of Missouri, Columbia (Summer 2020).
