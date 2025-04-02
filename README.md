@@ -44,7 +44,8 @@ Indiana University Math J, arXiv:2208.08103.
 - FOODHUB ORDER: The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. We analyze the data to draw some actionable insights for the business by performing data analysis to find answers to these questions that will help the company to improve the business.
 
 ### Academic Talks
+- The 14th AIMS Conference, Abu Dhabi, UAE. Topic: Transition to Instability for 2D-Euler Equations around Shear Flows
 - The 12th IMACS International Conference, University of Georgia, Athens. Topic: Large-amplitude solitary waves in two-layer density stratified water
 - Differential Equations Seminar, University of Missouri, Columbia. Topic: Large-amplitude solitary waves in two-layer density stratified water
-- KUMUNU-ISU Conference on PDE, Dynamical Systems, and Applications, University of Nebraska, Lincoln. Topic: Large-amplitude solitary waves in two-layer density stratified water.
+- KUMUNU-ISU Conference on PDE, Dynamical Systems, and Applications, University of Nebraska, Lincoln. Topic: Large-amplitude solitary waves in two-layer density stratified water
 
