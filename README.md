@@ -13,14 +13,15 @@
 ### Papers/publications
 - Internal capillary-gravity solitary waves in two-layer rotational fluids with finite depth, (with
 T Hsiao, K Chen) (in preparation).
+- On The Asymptotic OF Solitary Water Waves with Compactly Supported Vorticity, submitted to Journal of Differential Equations.
 - Asymptotic Stability of the Three-Dimensional Couette Flow for the Stokes-transport equation,(with
 W Zhao, R Z Zhu),arxiv:2405.12173.
-- Asymptotic Stability of the Two-Dimensional Couette Flow for the Stokes-transport equation,(with
-W Zhao, R Z Zhu),arxiv:2405.12166.
-- The transition to instability for stable shear flows in inviscid fluids, (with W Zhao, Journal of
-Functional Analysis, to appear, arXiv:2303.15925.
+- Asymptotic Stability of the Two-Dimensional Couette Flow for the Stokes-transport equation (with
+W Zhao, R Z Zhu), to appear on Transactions of the American Mathematical Society, arxiv:2405.12166.
+- The transition to instability for stable shear flows in inviscid fluids (with W Zhao), Journal of
+Functional Analysis, arXiv:2303.15925.
 - Existence and stability of interfacial capillary-gravity solitary waves with constant vorticity,
-Indiana University Math J, to appear, arXiv:2208.08103.
+Indiana University Math J, arXiv:2208.08103.
 - Large-amplitude solitary waves in two-layer density stratified water, SIAM J. Math. Anal.53-
 4(2021),pp.4812-4864 Doi:10.1137/20M1383537, arXiv:2012.00142.
 
@@ -36,7 +37,7 @@ Indiana University Math J, to appear, arXiv:2208.08103.
 - Teaching assistant for Math 1160 Precalculus, University of Missouri, Columbia (Spring 2018).
 - Teaching assistant for Math 1500 Calculus I, University of Missouri, Columbia (Fall 2018).
   
-### Completed Data Science and Machine Learning Projects
+### Side Projects on Data Science and Machine Learning
 - INN HOTELS: Find which factors have a high influence on booking cancellations, build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
 - RECELL: Analyze the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
 - E-NEWS: Use statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language is also analyzed.
