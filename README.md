@@ -1,5 +1,5 @@
 # Postdoctoral Research Associate
-
+![Alt text] (Screen Shot 2023-01-08 at 1.28.17 PM.png)
 
 ### Education
 - Applied Mathematics,          PhD | University of Missouri
