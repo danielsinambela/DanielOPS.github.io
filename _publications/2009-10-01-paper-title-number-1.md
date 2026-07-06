@@ -2,7 +2,7 @@
 title: "Large-amplitude solitary waves in two-layer density stratified water"
 collection: publications
 category: manuscripts
-permalink:https://epubs.siam.org/doi/abs/10.1137/20M1383537
+#permalink:https://epubs.siam.org/doi/abs/10.1137/20M1383537
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 venue: 'SIAM Journal of Mathematical Analysis'
