@@ -2,7 +2,7 @@
 title: "Summer 2021 — Instructor"
 collection: teaching
 date: 2021-06-01
-venue: "University of Missouri, Columbia"
+#venue: "University of Missouri, Columbia"
 permalink: /teaching/2021-06-01-summer-2021-instructor-math-4100-7100-ordinary-differential-equations/
 ---
 
