@@ -10,4 +10,4 @@ excerpt: "Submitted."
 ---
 Submitted.
 
-Use [Google Scholar](https://scholar.google.com) for the full citation.
+Use [Google Scholar](https://scholar.google.com/citations?user=TkmYbpcAAAAJ&hl=en) for the full citation.
