@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Daniel Sinambela](../images/profile.png)
-
 # Daniel Sinambela
 
 Assistant Professor of Mathematics  
