@@ -2,7 +2,7 @@
 title: "Fall 2025 — Instructor"
 collection: teaching
 date: 2025-08-01
-venue: "University of Utah, Asia Campus, Incheon"
+#venue: "University of Utah, Asia Campus, Incheon"
 permalink: /teaching/2025-08-01-fall-2025-instructor-math-1030-quantitative-reasoning-math-1050-college-algebra-math-1090-business-mathematics/
 ---
 
