@@ -2,7 +2,7 @@
 title: "Fall 2020 — Instructor"
 collection: teaching
 date: 2020-08-01
-venue: "University of Missouri, Columbia"
+#venue: "University of Missouri, Columbia"
 permalink: /teaching/2020-08-01-fall-2020-instructor-math-1700-calculus-ii/
 ---
 
