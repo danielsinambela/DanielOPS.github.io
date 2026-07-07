@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# Daniel Sinambela
-
 Assistant Professor of Mathematics  
 University of Utah, Asia Campus  
 Incheon Global Campus, South Korea
