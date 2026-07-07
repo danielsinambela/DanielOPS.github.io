@@ -7,4 +7,4 @@ permalink: /publication/existence-and-stability-of-interfacial-capillary-gravity
 venue: "Indiana University Mathematics Journal"
 citation: "Daniel Sinambela 'Existence and Stability of Interfacial Capillary-Gravity Solitary Waves with Constant Vorticity.' Indiana University Mathematics Journal."
 ---
-Use [Google Scholar](https://scholar.google.com) for the full citation.
+Use [Google Scholar](https://scholar.google.com/citations?user=TkmYbpcAAAAJ&hl=en) for the full citation.
