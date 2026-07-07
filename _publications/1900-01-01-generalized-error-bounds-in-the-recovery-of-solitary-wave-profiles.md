@@ -7,4 +7,4 @@ permalink: /publication/generalized-error-bounds-in-the-recovery-of-solitary-wav
 venue: "arXiv"
 citation: "Daniel Sinambela 'Generalized Error Bounds in the Recovery of Solitary Wave Profiles.' arXiv."
 ---
-Use [Google Scholar](https://scholar.google.com) for the full citation.
+#Use [Google Scholar](https://scholar.google.com) for the full citation.
