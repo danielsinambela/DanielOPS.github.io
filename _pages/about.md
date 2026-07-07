@@ -14,7 +14,7 @@ Email: daniel.sinambela AT utah.edu
 
 I am an Assistant Professor (Lecturer) of Mathematics at the University of Utah, Asia Campus. My research is in applied mathematics, with interests in fluid dynamics, hydrodynamic stability, water waves, nonlinear partial differential equations, harmonic analysis, and mathematics education.
 
-I received my Ph.D. in Mathematics from the University of Missouri in 2022, where I was advised by Samuel Walsh. Before joining the University of Utah Asia Campus, I was a Postdoctoral Associate at New York University Abu Dhabi from 2022 to 2025, where I worked with Weiren Zhao.
+I received my Ph.D. in Mathematics from the University of Missouri in 2022, where I was advised by Professor Samuel Walsh. Before joining the University of Utah Asia Campus, I was a Postdoctoral Associate at New York University Abu Dhabi from 2022 to 2025, where I worked with Professor Weiren Zhao.
 
 
 ## Education background
