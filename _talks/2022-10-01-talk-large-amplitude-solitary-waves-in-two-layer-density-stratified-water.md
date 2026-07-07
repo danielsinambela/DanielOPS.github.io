@@ -2,7 +2,7 @@
 title: "Large-amplitude solitary waves in two-layer density stratified water"
 collection: talks
 date: 2022-10-01
-venue: "The 12th IMACS International Conference"
+#venue: "The 12th IMACS International Conference"
 permalink: /talks/2022-10-01-talk-large-amplitude-solitary-waves-in-two-layer-density-stratified-water/
 ---
 
