@@ -7,4 +7,4 @@ permalink: /publication/on-the-asymptotics-of-solitary-waves-with-compactly-supp
 venue: "Journal of Differential Equations"
 citation: "Daniel Sinambela 'On the Asymptotics of Solitary Waves with Compactly Supported Vorticity.' Journal of Differential Equations."
 ---
-#Use [Google Scholar](https://scholar.google.com) for the full citation.
+Use [Google Scholar](https://scholar.google.com/citations?user=TkmYbpcAAAAJ&hl=en) for the full citation.
