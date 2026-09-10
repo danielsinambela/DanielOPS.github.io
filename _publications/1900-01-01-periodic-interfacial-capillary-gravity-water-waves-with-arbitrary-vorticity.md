@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/periodic-interfacial-capillary-gravity-water-waves-with-arbitrary-vorticity
 date: 1900-01-01
-venue: "Submitted"
+venue: "-"
 citation: "Daniel Sinambela with L. J. Wang 'Periodic Interfacial Capillary-Gravity Water Waves with Arbitrary Vorticity.' Submitted."
 excerpt: "Submitted."
 ---
